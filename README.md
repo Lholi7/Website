@@ -2,6 +2,8 @@
 
 Welcome to the world of Mercedes-Benz, where luxury meets performance and innovation. Mercedes-Benz is a renowned German automotive brand known for its commitment to excellence and pioneering technologies. Explore our rich history, iconic vehicles, and cutting-edge innovations below:
 
+![images (1)](https://github.com/Lholi7/Website/assets/142983465/f82234cb-294a-4b65-8f25-e367139712bb)
+
 ## Our Heritage
 
 Discover the fascinating journey of Mercedes-Benz, from its inception to becoming a global symbol of automotive excellence. Learn about the visionary engineers and designers who shaped the brand's legacy.
