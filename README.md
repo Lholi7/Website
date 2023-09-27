@@ -1,9 +1,6 @@
-
 # Mercedes-Benz
 
 Welcome to the world of Mercedes-Benz, where luxury meets performance and innovation. Mercedes-Benz is a renowned German automotive brand known for its commitment to excellence and pioneering technologies. Explore our rich history, iconic vehicles, and cutting-edge innovations below:
-
-![images (1)](https://github.com/Lholi7/Website/assets/142983465/d6ead2be-d67a-40fe-931c-a3a0dde69e8f)
 
 ## Our Heritage
 
@@ -28,6 +25,10 @@ Ready to experience Mercedes-Benz in person? Find your nearest dealership, sched
 ## Contact Us
 
 Have inquiries or need assistance? Contact our customer support team, and we'll be happy to assist you.
+
+## Footer
+
+&copy; 2023 Mercedes-Benz. All rights reserved. | [Privacy Policy](#) | [Terms of Service](#)
 
 Stay tuned for stunning visuals of our Mercedes-Benz vehicles coming soon!
 
