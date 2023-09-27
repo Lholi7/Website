@@ -1,4 +1,4 @@
-![images (1)](https://github.com/Lholi7/Website/assets/142983465/b4b1de27-d924-4922-b374-8bbc6b4f0934)# Website
+
 # Mercedes-Benz
 
 Welcome to the world of Mercedes-Benz, where luxury meets performance and innovation. Mercedes-Benz is a renowned German automotive brand known for its commitment to excellence and pioneering technologies. Explore our rich history, iconic vehicles, and cutting-edge innovations below:
